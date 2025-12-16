@@ -1,4 +1,4 @@
-# Sort Google Scholar documents by citation count（cited by xxx）
+# Sort Google Scholar documents by citation count（cited by number）
 Google Scholar Sort by Citations - Edge Extension
 
 这是一个用于Edge/Chrome 浏览器的插件，旨在为 Google Scholar（谷歌学术）搜索结果添加“按引用次数排序”的功能。
@@ -12,7 +12,7 @@ Google Scholar Sort by Citations - Edge Extension
 由于本插件尚未发布到extensions商店，您需要通过“开发者模式”手动加载。
 
 1.  **下载代码**：
-    * 确保您已下载包含 `manifest.json`, `content.js` 等文件的文件夹。
+    * 确保您已下载包含 `manifest.json`, `content.js` 等文件的`scholar-sorter`文件夹。
 2.  **打开扩展管理页面**：
     * 在 Edge 浏览器地址栏输入：`edge://extensions` 并回车。
     * （在 Chrome 浏览器地址栏输入：`chrome://extensions` 并回车。）
