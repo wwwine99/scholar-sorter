@@ -1,7 +1,5 @@
-<img width="2258" height="1303" alt="7c58313dbda40d1a3691d23ccb01667e" src="https://github.com/user-attachments/assets/f95e32c4-1ced-4ec7-8bf2-a8a5a6019a64" /><img width="2255" height="1253" alt="3b8cd2ad3134df23058ef0bb75f5075b" src="https://github.com/user-attachments/assets/aaf5747c-78a7-48e5-8877-b7e6a0eb4e42" /><img width="2259" height="1260" alt="16e6b4793b97f286e195d78e0c5cddc1" src="https://github.com/user-attachments/assets/3538e182-3aab-47ba-bb1b-93f2e51cd7a2" /># scholar-sorter
-
-Sort Google Scholar documents by citation count（cited by xxx）
-# Google Scholar Sort by Citations - Edge Extension
+# Sort Google Scholar documents by citation count（cited by xxx）
+Google Scholar Sort by Citations - Edge Extension
 
 这是一个用于Edge/Chrome 浏览器的插件，旨在为 Google Scholar（谷歌学术）搜索结果添加“按引用次数排序”的功能。
 
@@ -37,11 +35,14 @@ Sort Google Scholar documents by citation count（cited by xxx）
     * 输入关键词进行搜索（例如："Deep Learning"）。
 2.  **触发排序**：
     * **手动模式**：点击浏览器上方的蓝色插件图标，点击 "抓取20页并排序" 按钮。
+    * <img width="1776" height="719" alt="17684d58fea4bbc90b62aeec6dd7ec1b" src="https://github.com/user-attachments/assets/c6543d8c-1add-40d2-97ed-de5b8764598c" />
     * 重要：请保持当前标签页开启，不要刷新页面。你可以切换到其他窗口工作。
     * 观察进度条：插件会模拟人类行为，每页之间会有随机延时。
-    * 每抓取 5 页，会显示 "(长休息...)"，暂停约 10 秒。
+    * 可以随时停止，会排序现有已抓取的页面
+    * 每抓取 5 页，会显示 "(长休息...)"，暂停约 10 秒。<img width="1784" height="803" alt="3d9e169c44caccbc0a60835c4b05e0dc" src="https://github.com/user-attachments/assets/82c84519-9b8f-464f-96eb-8eab4d872b49" />
     * 整个过程大约需要 2-3 分钟。
     * 抓取完成后，页面会自动刷新，所有结果将按照引用次数从高到低排列。
+    * <img width="1795" height="988" alt="6e24d4d1a05525a6aa9e54697b70d029" src="https://github.com/user-attachments/assets/9f11fa68-9136-4e38-b0a0-8d13dfb9e1ad" />
 
 ---
 
