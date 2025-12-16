@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Google Scholar Sorter (20 Pages)",
+  "version": "2.0",
+  "description": "抓取Google Scholar前20页并按引用次数排序",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://scholar.google.com/*",
+        "*://scholar.google.com.hk/*",
+        "*://scholar.google.cn/*",
+        "*://scholar.google.co.jp/*",
+        "*://scholar.google.co.uk/*",
+        "*://scholar.google.de/*",
+        "*://scholar.google.fr/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
